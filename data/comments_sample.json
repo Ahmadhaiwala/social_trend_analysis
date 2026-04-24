@@ -1,0 +1,130 @@
+{
+  "struggle_comments": {
+    "Technology": [
+      "I spent 3 years trying to learn this and nobody explained it like this",
+      "Why did it take me so long to find this content? This is exactly what I needed",
+      "The anxiety of not keeping up with tech is real. This helped so much",
+      "I felt so alone struggling with this. Knowing others get it too is everything",
+      "Can we talk about how overwhelming this space is? Finally someone gets it",
+      "This hit differently. I thought I was behind everyone else",
+      "Anyone else feel like an impostor every day? This made me feel seen",
+      "The struggle is real. Bookmarked this forever",
+      "I literally cried watching this. The pressure is just too much sometimes",
+      "This is the content I needed 2 years ago when I was completely lost"
+    ],
+    "Fitness": [
+      "I've failed so many times trying to stay consistent. This gave me hope",
+      "The gym anxiety is something nobody talks about. Thank you for this",
+      "Started my journey 6 months ago feeling exactly like this. It gets better",
+      "Why does nobody show the struggle? This is so real and I needed it",
+      "Sharing this with everyone who told me I couldn't do it",
+      "The comparison trap is destroying my motivation. This reminded me why I started",
+      "Anyone else feel like quitting every Monday? This brought me back",
+      "My body is not where I want it but this helped me be kinder to myself",
+      "The mental side of fitness is the hardest part and nobody talks about it",
+      "3 months of zero progress then boom. This explained everything"
+    ],
+    "Music": [
+      "I've been playing for 5 years and felt like giving up. This is exactly what I needed",
+      "Why is the music industry so gatekept? This made it feel accessible",
+      "The loneliness of being a musician is something only musicians understand",
+      "Saving this to share with every musician friend who feels unseen",
+      "I cried listening to this because it described my exact journey",
+      "Nobody talks about the rejection artists face every day. Thank you",
+      "This is the validation I didn't know I needed as an independent artist",
+      "The struggle between passion and commercial success is eating me alive",
+      "Finally someone explains what happens behind the scenes. I felt so naive before",
+      "Sharing this immediately. Every musician needs to see this"
+    ],
+    "Beauty": [
+      "The beauty standards are destroying my self image and this helped me breathe",
+      "I spent so much money trying to fix things that didn't need fixing. This is freeing",
+      "Why does nobody show natural skin? This made me feel normal finally",
+      "The pressure to look perfect online is exhausting. Thank you for being real",
+      "Saving this as a reminder when I'm having a bad skin day",
+      "I've struggled with comparing myself to filters for years. This hit hard",
+      "Anyone else feel like beauty content makes you feel worse about yourself? Not this",
+      "This is the most honest beauty content I've ever seen. Subscribing forever",
+      "My daughter needed to see this. Sending it to her right now",
+      "Real skin. Real person. Real relief. Thank you for this"
+    ],
+    "Travel": [
+      "I almost cancelled my solo trip because of fear. This gave me courage",
+      "Why do people pretend travel is always perfect? This was so refreshing",
+      "The loneliness of solo travel is real and this made me feel less alone",
+      "Saving every tip here. This is the honest guide I wish I had before my first trip",
+      "I was too scared to travel alone at 30. This changed my mind completely",
+      "The pressure to have a perfect travel experience is so toxic. Thank you for this",
+      "Finally content that shows the real side of travel and not just the highlight reel",
+      "I feel seen. Travel anxiety is a real thing and nobody talks about it",
+      "This content made me book a ticket I've been scared to book for 2 years",
+      "Sharing this with everyone who thinks travel is only for the rich"
+    ],
+    "Food": [
+      "I've struggled with my relationship with food for years. This was healing",
+      "Why is healthy eating so gatekept? This made it feel possible for real people",
+      "The guilt around food is something nobody should feel. Thank you",
+      "Saving this recipe. Finally something that doesn't require 30 ingredients I can't afford",
+      "Budget cooking content that doesn't feel condescending. Rare and needed",
+      "I was so lost trying to eat healthy on my salary. This is a lifesaver",
+      "Food anxiety is real. This made me approach cooking with joy again",
+      "Anyone else use food as a coping mechanism? This made me feel less alone",
+      "My mom would love this. Sending it to her now",
+      "This is the most authentic food content I've seen in years"
+    ],
+    "Photography": [
+      "I felt like giving up photography because I'm not professional. This stopped me",
+      "The gear comparison trap is destroying my creativity. This reminded me of why I started",
+      "Why does the photography community gatekeep so much? This was welcoming",
+      "I've been hiding my photos because they're not perfect. This gave me courage",
+      "The pressure to have the best camera to be taken seriously is exhausting",
+      "Saving this for every time I doubt my eye as a photographer",
+      "Finally content that validates phone photography. Not all of us have DSLR budgets",
+      "The imposter syndrome in creative fields is brutal. This helped so much",
+      "I compared my day 1 to everyone's day 1000 and it crushed me. This reframed it",
+      "Sharing with my photography group immediately. Everyone needs to see this"
+    ],
+    "Comedy": [
+      "I laughed until I cried. This is the therapy I couldn't afford this week",
+      "The way this perfectly captured my Monday morning is criminal",
+      "Sending this to everyone who said I take things too seriously",
+      "Why does comedy content feel this validating? I felt so understood",
+      "This is the break my brain needed after a horrific week",
+      "The accuracy of this is actually painful. Saved and shared",
+      "Why did this make me emotional? I needed this laugh so badly",
+      "The comedy to relatable content pipeline is powerful and this nailed it",
+      "Sharing with my whole friend group. This describes us perfectly",
+      "I came here to laugh and left feeling genuinely understood. Rare"
+    ]
+  },
+  "neutral_comments": [
+    "Great content as always",
+    "Nice post",
+    "Love this",
+    "🔥🔥🔥",
+    "Keep it up",
+    "Interesting perspective",
+    "Good work",
+    "Thanks for sharing",
+    "Well done",
+    "Following for more"
+  ],
+  "trend_keywords": {
+    "rising": [
+      {"keyword": "quiet quitting", "velocity": 340, "category": "Technology"},
+      {"keyword": "soft life", "velocity": 290, "category": "Fitness"},
+      {"keyword": "body neutrality", "velocity": 260, "category": "Beauty"},
+      {"keyword": "budget travel hacks", "velocity": 220, "category": "Travel"},
+      {"keyword": "social anxiety content", "velocity": 210, "category": "Comedy"},
+      {"keyword": "camera roll dump", "velocity": 185, "category": "Photography"},
+      {"keyword": "meal prep failures", "velocity": 175, "category": "Food"},
+      {"keyword": "indie music discovery", "velocity": 165, "category": "Music"}
+    ],
+    "declining": [
+      {"keyword": "hustle culture", "velocity": -180, "category": "Technology"},
+      {"keyword": "6-pack abs", "velocity": -140, "category": "Fitness"},
+      {"keyword": "perfect skin", "velocity": -120, "category": "Beauty"},
+      {"keyword": "luxury travel", "velocity": -100, "category": "Travel"}
+    ]
+  }
+}
